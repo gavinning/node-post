@@ -1,6 +1,6 @@
 var is = require('aimee-is');
 var path = require('path');
-var post = require('./post');
+var post = require('./lib/post');
 
 // 初始化配置文件路径
 post.config.init(path.join(process.env.HOME, '.postconfig.json'));
