@@ -1,0 +1,35 @@
+{
+  "name": "node-post",
+  "version": "0.1.0",
+  "description": "post data to server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/post.git"
+  },
+  "keywords": [
+    "post",
+    "node-post"
+  ],
+  "author": "gavinning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavinning/post/issues"
+  },
+  "homepage": "https://github.com/gavinning/post#readme",
+  "dependencies": {
+    "aimee-extend": "^1.0.1",
+    "colorful": "^2.1.0",
+    "commander": "^2.9.0",
+    "date-format": "0.0.2",
+    "fs-extra": "^0.30.0",
+    "fullstring": "^1.0.1",
+    "glob": "^7.0.5",
+    "linco.lab": "^1.0.0",
+    "request": "^2.73.0",
+    "vpm-config": "^1.3.0"
+  }
+}
