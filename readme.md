@@ -27,6 +27,8 @@ $ post *
 $ post lib
 $ post lib/**
 $ post lib bin
+$ post lib/**/*.js
+$ post lib/**/*.{js, css}
 ```
 
 ### Server By Express
