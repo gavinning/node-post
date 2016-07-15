@@ -1,6 +1,6 @@
 {
   "name": "node-post",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "post data to server",
   "main": "app.js",
   "bin": {
