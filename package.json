@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "post data to server",
   "main": "app.js",
+  "bin": {
+    "post": "bin/post.js"
+  },
   "scripts": {
     "test": "node test"
   },

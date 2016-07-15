@@ -7,10 +7,6 @@ post.config.init(path.join(process.env.HOME, '.postconfig.json'));
 
 if(is.emptyObject(post.config.get())){
     post.config.merge({
-        proxy: {
-            proxy: '',
-            proxys: ''
-        },
         poster: [
             {
                 name: 'test',
